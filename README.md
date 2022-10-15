@@ -13,3 +13,8 @@ Anotaciones
 +1 Se agrego el sistema responsive para que esta pagina web se pueda visualizar en distintos tamaños de pantalla, desde movil hasta computador, facilitando el acceso del usuario desde cualquier dispositivo y que visualmente este bien.
 
 +1 Implementacion de transiciones fade-in para que el usuario al acceder a contenidos especificos de la pagina web, pueda ver esta animacion.
+
++1 Se creo una carpeta que recibe el nombre de CBAgro Diseño, donde se encuentra todo el contenido del proyecto en su version de diseño de Figma, desde la version movil y la version de ordenador. Ademas de que incluye su manual de ususario con toda la informacion necesario
+Incluye los sketches de como se plantearon la version movil, la version de ordenador ademas de las imagenes de que se fue completando a medida que se desarrollaba el proyecto.
+
++1 Se creo una carpeta que recibe el nombre de CBAgro Pagina, donde se encuentra todo el contenido del proyecto en su version de pagina finalizado, entre ellos hay una carpeta con el archivo CSS de todas las paginas, sus respectivas imágenes y de 14 paginas web, de las cuales 7 se encuentran en español, y 7 se encuentran en ingles, entre las paginas hay una principal en cada versión de idioma que permite desplazarse a las otras, ademas de que permite un cambio rápido en el idioma.
